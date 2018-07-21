@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Dependencies 
 
-Things you may want to cover:
+- Rails 5.2.0
 
-* Ruby version
+### How to run
+- On terminal navigate to app folder
+- run $ rails s
+- visit localhost:3000
+- alternatively visit this link to see the app demo: https://nameless-beyond-53500.herokuapp.com/
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Features
+- Drag and drop a Plain text file (.txt) and will extract the 5 most used words. 
