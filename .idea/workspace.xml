@@ -19,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DocUpload@Development__DocUpload.rcov" NAME="Development: DocUpload Coverage Results" MODIFIED="1532140641991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DocUpload" />
+    <SUITE FILE_PATH="coverage/DocUpload@Development__DocUpload.rcov" NAME="Development: DocUpload Coverage Results" MODIFIED="1532142816349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DocUpload" />
   </component>
   <component name="FileEditorManager">
     <leaf>
